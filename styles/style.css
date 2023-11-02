@@ -114,6 +114,12 @@ body{
     font-weight: 400;
 }
 
+.rodape__container {
+    height: 420px;
+    padding-left: 74px;
+}
+
+
 @media (max-width: 1200px){
     .cabecalho{
         padding: 10%;
